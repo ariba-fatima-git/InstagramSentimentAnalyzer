@@ -19,4 +19,9 @@ requests>=2.31.0         # Apify API calls
 # PDF export (optional - for richer PDF reports)
 # reportlab>=4.0.0
 
+#ENV
 python-dotenv
+
+#AI
+groq
+
